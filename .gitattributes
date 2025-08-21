@@ -1,0 +1,3 @@
+PostgreSQL/**/*.sql linguist-language=PLpgSQL
+MSSQL/**/*.sql linguist-language=TSQL
+OracleSQL/**/*.sql linguist-language=PLSQL
